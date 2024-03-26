@@ -39,3 +39,5 @@ Integrate the model into web or mobile applications for real-time character reco
 ## Acknowledgements:
 Dataset source 
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+
+Thanks to @codealpha
